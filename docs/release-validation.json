@@ -1,0 +1,25 @@
+{
+  "tiny_reference_tests": "3 passed",
+  "training_smoke": "one CPU optimizer step and export passed",
+  "actual_checkpoints": [
+    {
+      "loops": 4,
+      "status": "passed",
+      "tensors_exact": 403,
+      "params": 596139465,
+      "full_fp32_logits_max_abs": 0.0,
+      "cached_logits_max_abs": 0.0,
+      "device": "NVIDIA GB200"
+    },
+    {
+      "loops": 8,
+      "status": "passed",
+      "tensors_exact": 415,
+      "params": 596143587,
+      "full_fp32_logits_max_abs": 0.0,
+      "cached_logits_max_abs": 0.0,
+      "device": "NVIDIA GB200"
+    }
+  ],
+  "github_ci": "https://github.com/thuEcstasy/ForesightLoop/actions/runs/42226049431"
+}
