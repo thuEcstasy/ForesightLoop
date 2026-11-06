@@ -1,0 +1,31 @@
+{
+  "description": "SHA256 of validated research modules before import-path packaging; no cluster orchestration is included.",
+  "files": {
+    "aggregation.py": "1890f2134e6ecc42fe01d4bb632353295f3243800ba67d973c173b448320ba7c",
+    "captured.py": "68353fc64787a57046bb1de00775ff715fa68cb38e8ccfa4d5f7cb42167ecdc1",
+    "checkpoint.py": "1e8fcba900f31a366ed8505cbd981f347483b8b3f3f46ebc5b5feb6c1dfb73f5",
+    "decode.py": "7256a2dbb0ce58177221a7102358642245082386aa1b3e10210c739623984995",
+    "engine.py": "9e5430e3fa99a79433a6ac9d6284c22f3d29ff0abeb0d57c94cff77385e22dc0",
+    "flash_backend.py": "354d00e216db9d9d977a088c5f1bec53ff82af82ea5b369508f3ecc7d60eb35d",
+    "full_decode.py": "a15bb6aa7f1f0b0530d43d053434f2e425c2175250c53daa2e6b6b57b0dbd1f2",
+    "full_reference.py": "390b1436413808afd66ce790122530816268581dd4c78e3cbdf89f69c1f80378",
+    "full_sources.py": "91a924d8f58cf4a3b85336cfca974fc2a0e65159786b96d77565ef2f11208fcc",
+    "graph_execution.py": "dd67e70087597fdfd8c3ab2ebe858d1f15cf8bf6f14f480014c2aad7ca18a69b",
+    "head.py": "1010c708820e07b1ad10008d1168f693e605aa96bf27b5b26c388f9517bb9e9f",
+    "independent_reference.py": "b3b34bf88f2a6aa50d43f9ac151678e489aa24fa86bc1fe37d44d74fbcd31f4c",
+    "legacy_decode.py": "dd75e61d2238fa1ab54f5e43371d7ad65de56a0443a85caabc400c729807d6d5",
+    "model.py": "13b56907dd2a936f6b5edf1e03b7db228cdf32ff2c58d6cc3fa780e23cfde6a0",
+    "norm_backward.py": "d72d7c14904d2e3a295056849cc7e26d8c70f73877e4d6b3673517ff6cd1deba",
+    "oracle.py": "ecbfc56a038c5dc08c57323223606d71470cd41f3b9d854d6cfc495b12da5520",
+    "primitives.py": "5932a983b60b5a039e3465e446da9f585d8aac54ad5733182c23ecc65ef59985",
+    "selective.py": "e9bae0465e918f8771ab64d33611bd5ed3466e34d0fb802113b37f25e1e080a1",
+    "sequence.py": "c02c446f4a35b320087b2e3cd23a90b505f8a1fbe083fc029ec73255c7e13270",
+    "serial_aggregation.py": "d7325fd9755220a45e32ad248432e967d7684cdfa644e215e62caba6e8119b40",
+    "serial_decode.py": "ede39b37616f8922d382c1a0ab777c38be874036607efd80882ca43bfba336cc",
+    "stable_eval_aggregation.py": "83c2b7e55e7d1665499fe47fdf92af1f3e80fd80c9100d3506c56a67a4147cf1",
+    "stable_eval_norm.py": "1f513ef776a9d8d9cd5a9a2fcc39c29a582d22dc2b9f57e5ddda473c78ad60ec",
+    "train_graph.py": "9a095ffbd88e032ba714ab262f2ac2c523333bf5017fc3ceb0af4c4ae6e576b8",
+    "trajectory.py": "29eeb0497acf08ee5d32203896b42675394fa85409691f421920206d093dd993",
+    "trajectory_decode.py": "8cc14a95bd9d7bc52602e9819bb5cb575058d01e5bb867ea653c08194a4ee85d"
+  }
+}

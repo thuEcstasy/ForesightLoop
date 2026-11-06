@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foresightloop"
+version = "0.1.0"
+description = "Reference implementation and released checkpoints for ForesightLoop"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+dependencies = ["torch>=2.6", "safetensors>=0.4.5", "huggingface-hub>=0.30", "transformers>=4.51"]
+
+[project.optional-dependencies]
+test = ["pytest>=8"]
+train = ["numpy>=1.26"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

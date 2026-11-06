@@ -1,0 +1,4 @@
+ForesightLoop
+Copyright 2026 ForesightLoop contributors.
+
+This release contains the authors' research implementation. The backbone configuration and tokenizer follow Qwen3-0.6B (Apache-2.0). The model weights were pretrained from a common random initialization; they are not fine-tuned Qwen3 model weights. Tokenizer files are redistributed with the model checkpoints under their upstream license. PyTorch, Transformers, and other dependencies retain their respective licenses.

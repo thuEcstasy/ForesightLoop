@@ -1,0 +1,19 @@
+{
+  "backbone": "Qwen3-0.6B configuration; random initialization",
+  "tokenizer": "Qwen/Qwen3-0.6B",
+  "tokenizer_revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+  "dataset": "HuggingFaceFW/fineweb-edu",
+  "sequence_length": 1024,
+  "global_batch_size": 128,
+  "optimizer": "AdamW",
+  "learning_rate": 0.0003,
+  "betas": [0.9, 0.95],
+  "weight_decay": 0.1,
+  "main_training_steps": 45777,
+  "main_training_tokens": 6000082944,
+  "loop_counts": [4,8],
+  "local_window": 64,
+  "source_rmsnorm": true,
+  "residual_lambda": 0.5,
+  "ffn_output_rmsnorm": true
+}
